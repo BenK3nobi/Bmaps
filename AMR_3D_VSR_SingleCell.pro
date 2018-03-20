@@ -1,4 +1,4 @@
-update=22/05/2015 07:44:53
+update=20.03.2018 13:03:09
 version=1
 last_client=kicad
 [general]
@@ -29,7 +29,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=
+LibDir=hzblogo.pretty
 [eeschema/libraries]
 LibName1=power
 LibName2=device
